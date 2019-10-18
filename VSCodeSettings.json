@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "window.zoomLevel": 2,
+    "editor.fontFamily": "'Source Code Pro'",
+    "editor.fontWeight": "300",
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "boundary"
+}
